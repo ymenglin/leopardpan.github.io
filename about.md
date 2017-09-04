@@ -13,7 +13,6 @@ title: 关于我
 <p>
 
 所在学校
-//<a target="_blank" href="https://www.talkingdata.com/"> TalkingData </a>
 四川师范大学附属中学
 
 <p>
